@@ -3,7 +3,7 @@
 🎓 Formado em Ciências Contábeis  
 💻 Desenvolvedor backend desde 2021  
 📊 Experiência anterior com sistemas de automação comercial (2016–2020)  
-📌 Atuação com microempreendedores individuais (MEIs) e sistemas fiscais (NFe, NFSe, NFCe, MDFe, SPED)
+📌 Atuação com microempreendedores individuais (MEIs) e sistemas fiscais voltados ao cumprimento de obrigações acessórias e emissão de documentos fiscais eletrônicos
 
 ## 🚀 Tecnologias e Ferramentas
 
