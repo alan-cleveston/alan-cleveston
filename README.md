@@ -22,7 +22,7 @@
 
 ## 💼 Experiência Relevante
 
-- +2 anos de experiência com as plataformas educacionais **i-Educar** e **i-Diário**, adquirindo base prática em PHP e Ruby
+- +3 anos de experiência com as plataformas educacionais **i-Educar** e **i-Diário**, adquirindo base prática em PHP e Ruby
 
 - **2023 a 2024** – Atuação em sistema educacional voltado para **diário escolar do professor**, com foco em:
   - Lançamento de frequência  
@@ -45,5 +45,5 @@ Unir minha base em contabilidade e experiência em tecnologia para criar soluç�
 
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/seulink](https://linkedin.com/in/seulink)  
-- E-mail: seuemail@email.com
+- LinkedIn: [alan-cleveston](https://www.linkedin.com/in/alan-cleveston)  
+- E-mail: alancleveston@gmail.com
